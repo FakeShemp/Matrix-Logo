@@ -13,3 +13,5 @@ Currently includes:
 <img alt="arvato digital services BERTELSMANN" src="Arvato Digital Services Bertelsmann/arvatodigital_black.svg" height="50">
 
 <img alt="Sono press" src="Sono press/sonopress_black.svg" height="50">
+
+<img alt="R" src="R (Arvato)/r_black.svg" height="50">
