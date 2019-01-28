@@ -15,3 +15,5 @@ Currently includes:
 <img alt="Sono press" src="Sono press/sonopress_black.svg" height="50">
 
 <img alt="R" src="R (Arvato)/r_black.svg" height="50">
+
+<img alt="W" src="Warner Music/w_black.svg" height="50">
