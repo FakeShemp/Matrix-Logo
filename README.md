@@ -19,3 +19,6 @@ Currently includes:
 <img alt="W" src="Warner Music/w_black.svg" height="50">
 
 <img alt="DCM Sweden" src="DCM Sweden/dcm_sweden_black.svg" height="50">
+
+<img alt="Danish Video Duplication" src="Danish Video Duplication/dvd_black.svg" height="50">
+
