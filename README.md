@@ -22,3 +22,4 @@ Currently includes:
 
 <img alt="Danish Video Duplication" src="Danish Video Duplication/dvd_black.svg" height="50">
 
+<img alt="Digital Audio Technologies Australia" src="Digital Audio Technologies Australia/data_black.svg" height="50">
