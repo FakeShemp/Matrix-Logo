@@ -24,4 +24,4 @@ Currently includes:
 
 <img alt="Digital Audio Technologies Australia" src="Digital Audio Technologies Australia/data_black.svg" height="50">
 
-<img alt="Technicolor" src="Technicolor/technicolor.svg" height="50">
+<img alt="Technicolor" src="Technicolor/technicolor_black.svg" height="50">
